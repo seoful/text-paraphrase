@@ -89,9 +89,8 @@ Metrics obtained from the reference and translation columns of the original data
 
 ### Chain of models
 
-* toxicity: 0.09911557480319434
-* cosine similarity: 0.5849484205245972, 
-* bleu: 8.83023316093039
+To be computed
+
 
 # Possible improvements
 * One can train the model more and on the whole dataset
