@@ -89,10 +89,11 @@ Metrics obtained from the reference and translation columns of the original data
 
 ### Chain of models
 
-To be computed
-
+* toxicity: 0.1021561338604425
+* cosine similarity: 0.8369008626516601, 
+* bleu: 45.38861440755535
 
 # Possible improvements
 * One can train the model more and on the whole dataset
 * Toxicity classifier can be trained to match the dataset toxicity distribution
-* Change the way the chain of models chooses the best shot (.e.g weighted average or rank-based decision)
+* Change the way the chain of models chooses the best shot (e.g. weighted average or rank-based decision)
